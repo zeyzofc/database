@@ -1,13 +1,1 @@
-{
-  "allowedIps": ["172.18.0.56"],
-  "users": [
-    {
-      "username": "user1",
-      "password": "password1"
-    },
-    {
-      "username": "user2",
-      "password": "password2"
-    }
-  ]
-}
+{"allowedIps":[]}
